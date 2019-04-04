@@ -11,7 +11,7 @@ Time spent: 8 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: [](XSS.gif)
   
   
   
@@ -30,7 +30,7 @@ Time spent: 8 hours spent in total
     - Vulnerability types: User Enumeration
     - Tested in version: 4.2
     - Fixed in version: N/A
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: [](User Enumaration.gif)
   
   
   - [ ] Steps to recreate: 
@@ -45,7 +45,7 @@ Time spent: 8 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: [](Media XSS.gif)
   
   
   - [ ] Steps to recreate: 
