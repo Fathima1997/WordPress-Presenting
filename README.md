@@ -12,6 +12,11 @@ Time spent: 8 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
+  
+  
+  
+  
+  
   - [ ] Steps to recreate: 
         Create a new post called example, and then put the code<a onmouseover= "alert('Hello word!')" >click here</a> in the content             link. Finally click link to show message in the preview of post.
   - [ ] Affected source code:
