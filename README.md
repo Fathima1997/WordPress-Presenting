@@ -6,7 +6,7 @@ Time spent: 8 hours spent in total
 
 ## Pentesting Report
 
-1. (Required) Vulnerability Name or ID: Authenticated Stored Cross-Site Scripting
+### 1. (Required) Vulnerability Name or ID: Authenticated Stored Cross-Site Scripting
   - [x] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
@@ -25,7 +25,7 @@ Time spent: 8 hours spent in total
     
     
     
-1. (Required) Vulnerability Name or ID: User Enumeration
+### 2. (Required) Vulnerability Name or ID: User Enumeration
   - [x] Summary: 
     - Vulnerability types: User Enumeration
     - Tested in version: 4.2
@@ -40,7 +40,7 @@ Time spent: 8 hours spent in total
     
     
     
-1. (Required) Vulnerability Name or ID: Authenticated Stored Cross-Site Scripting via Image Filename
+### 3. (Required) Vulnerability Name or ID: Authenticated Stored Cross-Site Scripting via Image Filename
   - [x] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
