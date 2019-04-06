@@ -6,7 +6,7 @@ Time spent: 8 hours spent in total
 
 ## Pentesting Report
 
-### 1. (Required) Vulnerability Name or ID: Authenticated Stored Cross-Site Scripting
+### 1. Vulnerability Name or ID: Authenticated Stored Cross-Site Scripting
   - [x] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
@@ -25,7 +25,7 @@ Time spent: 8 hours spent in total
     
     
     
-### 2. (Required) Vulnerability Name or ID: User Enumeration
+### 2. Vulnerability Name or ID: User Enumeration
   - [x] Summary: 
     - Vulnerability types: User Enumeration
     - Tested in version: 4.2
@@ -35,12 +35,12 @@ Time spent: 8 hours spent in total
   
   - [x] Steps to recreate: 
         Go to the WordPress login page, first, check the input for admin with empty password, then it shows the error because the               password is empty.Second, when you input admin as username, and put password randomly.It shows the password for admin is                 incorrect. When you put other name (ex.ur name), and random password, it shows error.
-  - [ ] Affected source code:
+  - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
     
     
     
-### 3. (Required) Vulnerability Name or ID: Authenticated Stored Cross-Site Scripting via Image Filename
+### 3. Vulnerability Name or ID: Authenticated Stored Cross-Site Scripting via Image Filename
   - [x] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
@@ -58,7 +58,7 @@ Time spent: 8 hours spent in total
 
 ## Assets
 
-List any additional assets, such as scripts or files
+> List any additional assets, such as scripts or files
 
 ## Resources
 
@@ -69,7 +69,7 @@ GIFs created with [EZGIF.COM](https://ezgif.com/video-to-gif).
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+> Describe any challenges encountered while doing the work
 
 ## License
 
